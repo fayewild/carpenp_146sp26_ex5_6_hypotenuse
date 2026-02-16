@@ -15,10 +15,10 @@ public class hypotenuseApp {
     /*Processing Phase*/
     // Solicit user input for Arg1
     // Solicit user input for Arg2
-    // Call Hypotenuse Method
+    // Call Hypotenuse Method using Arg1 and Arg2
     
     // Hypotenuse Method
-        // Hypotenuse = Math.sqrt(Math.pow(Arg1, 2) + Math.pow(Arg2, 2))
+        // Return Hypotenuse = Math.sqrt(Math.pow(Arg1, 2) + Math.pow(Arg2, 2))
     
     
     /*Termination Phase*/
