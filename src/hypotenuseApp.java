@@ -7,9 +7,20 @@ public class hypotenuseApp {
     // context of Java is horrifying.
     
     /*Init. Phase*/
-    
+    // Import Math Class
+    // Initalize Double Arg1
+    // Initalize Double Arg2
+    // Initalize Double Hypotenuse
+        
     /*Processing Phase*/
+    // Solicit user input for Arg1
+    // Solicit user input for Arg2
+    // Call Hypotenuse Method
+    
+    // Hypotenuse Method
+        // Hypotenuse = Math.sqrt(Math.pow(Arg1, 2) + Math.pow(Arg2, 2))
+    
     
     /*Termination Phase*/
-    
+    // Print Arg1, Arg2, and Hypotenuse
 }
