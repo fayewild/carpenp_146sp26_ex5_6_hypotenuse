@@ -3,6 +3,7 @@ import java.util.Scanner;
 /**
  * Should have added this sooner:
  * Credit to GeeksForGeeks for help with code!
+ * https://www.geeksforgeeks.org/java/arrays-in-java/
  * @author Faye Carpenter
  */
 public class hypotenuseApp {
